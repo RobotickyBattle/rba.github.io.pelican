@@ -1,0 +1,14 @@
+{
+    "nixpkgs": {
+        "branch": "nixos-unstable",
+        "description": "A read-only mirror of NixOS/nixpkgs tracking the released channels. Send issues and PRs to",
+        "homepage": "https://github.com/NixOS/nixpkgs",
+        "owner": "NixOS",
+        "repo": "nixpkgs-channels",
+        "rev": "42f0be81ae05a8fe6d6e8e7f1c28652e7746e046",
+        "sha256": "1rxb5kmghkzazqcv4d8yczdiv2srs4r7apx4idc276lcikm0hdmf",
+        "type": "tarball",
+        "url": "https://github.com/NixOS/nixpkgs-channels/archive/42f0be81ae05a8fe6d6e8e7f1c28652e7746e046.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    }
+}
